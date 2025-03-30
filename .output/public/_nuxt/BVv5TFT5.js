@@ -1,0 +1,1 @@
+import{_ as t,t as s,v as a,Y as o}from"./C3WoUwem.js";const c={},n={class:"app-layout"};function r(e,_){return a(),s("div",n,[o(e.$slots,"default",{},void 0)])}const l=t(c,[["render",r],["__scopeId","data-v-e4793096"]]);export{l as default};
